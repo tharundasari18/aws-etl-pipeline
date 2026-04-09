@@ -1,0 +1,3 @@
+Converted CSV to Parquet (.parquet format) using AWS Glue
+Handled schema mapping
+Resolved IAM permission issues
