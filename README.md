@@ -1,6 +1,6 @@
 AWS Serverless ETL Pipeline (S3 + Lambda + Glue + Athena)
 
-**Overview
+Overview
 
 This project demonstrates a complete serverless ETL pipeline built using AWS services. The pipeline ingests raw CSV data, processes and partitions it using Lambda, optimizes it into Parquet format using AWS Glue, and enables querying using Amazon Athena.
 
